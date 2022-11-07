@@ -94,7 +94,7 @@
     padding: 100px 15px;
 }
 .culture-section {
-    background: linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.45)), url(https://www.solodev.com/assets/culture.jpg) top no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.45)), url(imgs/brasil.jpg) top no-repeat;
     /* background-color: #095c87; */
     /* color: #fff; */
 }
@@ -203,8 +203,8 @@ img {
   font-size: 42px;
 }
 .btn-solodev-red-reversed {
-    background-color: #fff;
-    color: #d2282e;
+    background-color: #ccc;
+    color: #3C5A9C;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
     padding: 12px 35px;
